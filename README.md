@@ -1,2 +1,2 @@
-# FOC
-Some files of field-oriented control, include PCB and codes.
+# Picidae_core
+Some files of RISC_V
